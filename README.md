@@ -1,8 +1,6 @@
 bank_campaign
 ==============================
 
-edecir la suscripcion a un producto ofrecido por una camp
-
 Project Organization
 ------------
 
